@@ -9,8 +9,8 @@ Here are some lists of my paintings
 1. Painting of natural beauty
 2. Painting of random things
    1. a classroom
-   2. traffic lights
-https://fineartamerica.com/art/paintings
+   2. [traffic lights]
+(https://fineartamerica.com/art/paintings)
 ![Nighttime apainting](https://github.com/Fahin2000/Data-110/assets/157661630/dd935d61-5d01-404b-8551-98f5cddaf229)
 As Vincent Willem van Gogh said:
 > I dream my painting and I paint my dream.
