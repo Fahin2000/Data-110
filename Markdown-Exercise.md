@@ -18,6 +18,13 @@ As Vincent Willem van Gogh said:
 - [ ] Putting more colors
 - [ ] Regular practice of paintings
 [^1] : Painting makes my soul happy, and I am trying my best to do better in this field.
+x = np.linspace(0, 10, 100)
+y = np.sin(x)
 
+plt.plot(x, y)
+plt.title('Sine Wave')
+plt.xlabel('x')
+plt.ylabel('y')
+plt.show()
 
 
